@@ -1,6 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Gautam Ladhava
+<br />
+ <a href="https://portfolio-blue-chi-70.vercel.app/" > 🔗 Visit My Portfolio </a> 
 
 ### Full-Stack Software Engineer
 
@@ -8,29 +10,22 @@
 
 Building scalable, performant, and modern web applications.
 
-<br />
- <a href="https://portfolio-blue-chi-70.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /> </a> 
  <br />
+  <a href="https://portfolio-blue-chi-70.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /> </a> 
+
 <a href="https://github.com/gautamladhava">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/gautamladhava/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://gautamladhava.io">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+
 <a href="mailto:gautambhailadhava@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br />
-<br />
 
-<img
-  src="https://komarev.com/ghpvc/?username=gautamladhava&label=Profile%20Views&color=0e75b6&style=flat"
-  alt="Profile Views"
-/>
 
 </div>
 
