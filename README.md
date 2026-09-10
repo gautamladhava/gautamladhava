@@ -132,11 +132,6 @@ My core expertise spans the complete application lifecycle — from designing re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
 </a>
 
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" />
-</a>
-
-
 
 </p>
 
@@ -144,7 +139,6 @@ My core expertise spans the complete application lifecycle — from designing re
 
 - Node.js
 - Express.js
-- NestJS
 - REST APIs
 - JWT Authentication & Authorization
 
@@ -169,11 +163,6 @@ My core expertise spans the complete application lifecycle — from designing re
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
 </a>
-
-<a href="https://redis.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
-</a>
-
 </p>
 
 ### Database Technologies
@@ -182,7 +171,6 @@ My core expertise spans the complete application lifecycle — from designing re
 - MySQL
 - Microsoft SQL Server
 - MongoDB
-- Redis
 - Amazon Redshift
 - SQL & Complex Querying
 
@@ -253,15 +241,6 @@ My core expertise spans the complete application lifecycle — from designing re
 
 ---
 
-# 🤖 AI & Data
-
-## Generative AI
-
-- AWS Bedrock
-- Google Gemini
-- Generative AI Integrations
-- AI Application Development
-
 ## Data Engineering
 
 - Data Processing
@@ -308,27 +287,6 @@ My core expertise spans the complete application lifecycle — from designing re
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=gautamladhava&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-  alt="Gautam's GitHub Statistics"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamladhava&layout=compact&langs_count=8&hide_border=true"
-  alt="Gautam's Top Languages"
-/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -343,31 +301,6 @@ My core expertise spans the complete application lifecycle — from designing re
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=gautamladhava&hide_border=true"
-  alt="Gautam's GitHub Activity Graph"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=gautamladhava&theme=flat&no-frame=true&margin-w=10&row=1"
-  alt="Gautam's GitHub Trophies"
-/>
-
-</p>
-
----
 
 # 📜 Certifications
 
@@ -401,12 +334,9 @@ Completed foundational training in **Machine Learning concepts and AWS cloud com
 - React.js & TypeScript
 - Node.js & REST APIs
 - AWS & Serverless Architecture
-- Cloud-native Application Development
 - Data Processing & Analytics
-- Generative AI Integrations
 - Frontend Performance Optimization
 - Scalable Backend Systems
-- Preparing for **AWS Certified Developer – Associate**
 
 ---
 
