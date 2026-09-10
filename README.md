@@ -46,7 +46,6 @@ My core expertise spans the complete application lifecycle — from designing re
 - 🗄️ SQL & Relational Databases
 - 📊 Data Processing & Analytics
 - 🔄 REST APIs & Backend Services
-- 🤖 Generative AI Integrations
 - ⚡ Performance Optimization
 - 🐳 Docker & Git-based Development
 
@@ -92,10 +91,6 @@ My core expertise spans the complete application lifecycle — from designing re
 
 <a href="https://ant.design/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="45" height="45" alt="Ant Design" />
-</a>
-
-<a href="https://gsap.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" width="45" height="45" alt="GSAP" />
 </a>
 
 </p>
