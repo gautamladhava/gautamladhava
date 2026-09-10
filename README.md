@@ -136,13 +136,7 @@ My core expertise spans the complete application lifecycle — from designing re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" />
 </a>
 
-<a href="https://graphql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL" />
-</a>
 
-<a href="https://socket.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45" height="45" alt="Socket.IO" />
-</a>
 
 </p>
 
@@ -152,8 +146,6 @@ My core expertise spans the complete application lifecycle — from designing re
 - Express.js
 - NestJS
 - REST APIs
-- GraphQL
-- WebSockets
 - JWT Authentication & Authorization
 
 ---
